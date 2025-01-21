@@ -48,4 +48,4 @@ example {a b c d e f : ℤ} (h1 : a * d = b * c) (h2 : c * f = d * e) :
     _ = 0 := by ring
   done
 
--- Very Fun!
+-- Very Fun
