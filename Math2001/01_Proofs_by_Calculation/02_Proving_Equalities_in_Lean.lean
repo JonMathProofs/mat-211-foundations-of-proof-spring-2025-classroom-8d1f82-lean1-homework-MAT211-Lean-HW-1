@@ -55,3 +55,4 @@ example {a b c d e f : ℤ} (h1 : a * d = b * c) (h2 : c * f = d * e) :
 --try4
 --try5
 --Save Try 6 lol youre welcome
+--try 7
